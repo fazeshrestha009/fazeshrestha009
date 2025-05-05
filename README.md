@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a student studying BCA.<br>Mostly interested in FrontEnd Developing.<br>
+I’m a student studying BCA.<br>Mostly interested in Frontend Development.<br>
 
 
 ## 🌐 Socials:
