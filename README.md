@@ -17,5 +17,8 @@ I’m a student studying BCA.<br>Mostly interested in Frontend Development.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fazeshrestha009&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/fazeshrestha009/fazeshrestha009/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
