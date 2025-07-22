@@ -1,6 +1,6 @@
 # 💫 Hi There!
 I’m Pranaya, a Software Developer from Nepal.<br>Mostly passionate in Frontend Development where I thrive turning ideas into fast, accessible websites that look great and feel effortless to use.<br>
-My Portfolio: https://pranayashrestha.netlify.app<br>
+My Portfolio: https://shresthapranaya.com.np<br>
 
 
 
